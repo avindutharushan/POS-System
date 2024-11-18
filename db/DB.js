@@ -1,14 +1,14 @@
 export let Customers = [
   {
     custId: "C01",
-    custName: "Nisal",
+    custName: "kalana",
     custAddress: "Galle",
     custSalary: "35",
   },
 
   {
     custId: "C02",
-    custName: "Rusith",
+    custName: "kaveesha",
     custAddress: "Matara",
     custSalary: "22",
   },
@@ -17,13 +17,13 @@ export let Customers = [
 export let Items = [
   {
     itemId: "I01",
-    itemName: "Sunlight",
+    itemName: "lankasoi",
     itemQty: 10,
     itemPrice: 90,
   },
   {
     itemId: "I02",
-    itemName: "Cream craker",
+    itemName: "mari",
     itemQty: 50,
     itemPrice: 150,
   },

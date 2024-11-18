@@ -576,12 +576,7 @@ h5 {
   }
 }
 /* Header Responsive Styles */
-@media screen and (min-width: 769px) {
-  header {
-    height: auto;
-    padding: 10px;
-  }
-}
+
 @media screen and (max-width: 768px) {
   header {
     height: auto;
@@ -594,7 +589,6 @@ h5 {
 
   header ul {
     width: 100%;
-    flex-direction: column;
     align-items: center;
     gap: 10px;
   }
